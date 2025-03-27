@@ -25,7 +25,7 @@ TOOLWISE is a web application designed for efficient tool management within orga
 ### Prerequisites
 
 - Java 17 or higher
-- Apache Maven 3.9.6
+- Apache Maven 3.9.6,
 - MySQL database
 
 ### Setup Instructions
